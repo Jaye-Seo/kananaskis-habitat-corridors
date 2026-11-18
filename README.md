@@ -4,7 +4,7 @@ What happens to a habitat network when travelling near roads becomes more costly
 
 ![Two simulated landscapes show the least-cost networks under different road weights](assets/corridor-comparison.png)
 
-[한국어](README.ko.md) · [Read the routing code](corridors.py) · [ArcGIS Pro workflow](arcpy_workflow.py) · [Measured results](examples/metrics.csv)
+· [Read the routing code](corridors.py) · [ArcGIS Pro workflow](arcpy_workflow.py) · [Measured results](examples/metrics.csv)
 
 ## From coursework to this experiment
 
